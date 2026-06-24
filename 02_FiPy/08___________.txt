@@ -1,0 +1,25 @@
+https://pythonhosted.org/scikit-fmm/#examples
+
+$ python examples/diffusion/mesh1D.py	____________________________    E:\15_REPOS\d01_fipy
+$ python examples/diffusion/steadyState/mesh1D/tri2Dinput.py					   
+$ python examples/diffusion/steadyState/mesh20x20/isotropy.py		modifiedMeshInput.py	orthoerror.py		tri2Dinput.py
+$ python examples/diffusion/steadyState/mesh50x50/input.py
+$ python examples/diffusion/steadyState/otherMeshes/prism.py		grid3Dinput.py		cubicalProblem.py
+$ python examples/cahnHilliard/mesh3D.py
+python examples/diffusion/anisotropy.py					
+python tutorials/python/t2.py						E:\15_REPOS\d05_gmsh-4.15.2		https://gmsh.info/doc/texinfo/
+
+
+
+E:\15_REPOS\d01_fipy\examples\convection\advection		$ python examples/convection/advection/vanLeerUpwind.py
+explicitUpwind.py
+implicitUpwind.py
+vanLeerUpwind.py
+
+E:\15_REPOS\d01_fipy\examples\convection\exponential1D		$ python examples/convection/exponential1D/mesh1D.py
+tri2D.py
+
+
+
+$ python examples/convection/exponential1D/mesh1D.py
+	

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<VTKFile type="ImageData" version="0.1" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <ImageData WholeExtent="0 7 0 4 0 2" Origin="0 0 0" Spacing="1 1 1" Direction="1 0 0 0 1 0 0 0 1">
+  <Piece Extent="0 7 0 4 0 2">
+    <PointData Scalars="values">
+      <DataArray type="Float64" Name="values" format="binary" RangeMin="0.0720862598793118" RangeMax="0.7932077486835363">
+        AQAAAACAAADAAwAAXgEAAA==eF6FkjssQ2EYhhNDDYLGaBB3G5FITPyDuCVNzDZlkBYJcjSxWaRFdFHac8Sls8YgMYlEYpAcrbRsBsbGSozC8rxn+JPGdNK33/devv+tHKTnLhbfTc7vn2+7rprk2kLIq76anv3bma2mG+MUQmOhZNFkBwp3o86VKdalhqYHy2abuRx4SzzcEIm9mMT910+63jfH8E1+rg5/Rz8CvMT+SW5zdiT6EOCN7EvnjP+fmNfcOHyH8O/gI8vvCnlS4PIrnwnytJPPRUd6yh2PXOZbf98CPn1j4J3MydcEvuRDeDO5pH+Ojo+vI8uX9JXL/SeX8GV8dbGft3L1gS8xV2ZP7yG9Z3AP3V3wXvY38CnfvvWebo0+6C660zp4N7wrNe5t5zpFR98Oq6e6s3Lt4V988hH01+qpg6+ilcuDN0wu+ZePktXTKfhcqw9hq+e6+2ONnqoPevcMfHq/P53EyEU=
+      </DataArray>
+    </PointData>
+    <CellData>
+    </CellData>
+  </Piece>
+  </ImageData>
+</VTKFile>
