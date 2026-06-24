@@ -1,3 +1,0 @@
-SEE
-	https://github.com/HenningScheufler/pybFoam	
-	https://github.com/HenningScheufler/pyOFTools
