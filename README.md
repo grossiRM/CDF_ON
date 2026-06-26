@@ -1,9 +1,11 @@
 # Beta_Me  
 
-## CDF 
+## CDF | Py
+_______________________________
+Example: <br>
+[https://github.com/grossiRM/CDF_ON/blob/main/02_FiPy/02_diffusion.mesh20x20.ipynb]     <br>
 
-### REPO
-
+### REF
 ```bash
 https://grossirm.github.io/
 ```
